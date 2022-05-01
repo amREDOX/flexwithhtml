@@ -1,0 +1,54 @@
+/* Navbar */
+
+.navbar-brand{
+    font-size: 40px;
+    font-weight: bold;
+}
+.forpadding{
+    padding-left: 50%;
+}
+.nav-item{
+    padding: 15px 10px;
+}
+
+/* heading */
+
+.heading{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* main body */
+
+.row{
+    padding: 5% 7% 5%;
+    text-align: left;
+}
+.desktop-image{
+    width: 90%;
+    margin-left: 50px;
+}
+h1{
+    font-size: 70px;
+    font-weight: bold;
+    padding: 5% 0% 10%;
+}
+.bodytext{
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 30px;
+}
+p{
+    padding: 0 0 20px;
+    color: grey;
+}
+.btn{
+    padding-left: 10px;
+}
+
+/* Press-section */
+
+.press{
+    margin-top: 100px;
+}
+.press-image{
+    margin: 7px;
+}  
